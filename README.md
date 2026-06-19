@@ -21,7 +21,3 @@ Senior Front-End Engineer with 12+ years of experience building scalable web pro
 - Clean, maintainable, type-safe codebases
 - Performance and UX in data-heavy interfaces
 - Translating design and product requirements into reliable, well-structured code
-
----
-
-📫 Let's connect — open to discussing front-end engineering, React/TypeScript architecture, or interesting side projects.
