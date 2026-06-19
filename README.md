@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Wesley 👋
 
-<!--
-**xWul/xWul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Front-End Engineer with 12+ years of experience building scalable web products, currently focused on digital investment and savings platforms for one of the largest banks in Portugal.
 
-Here are some ideas to get you started:
+- 🏦 Currently @ **ITSector**, building front-end systems for fintech / banking products
+- 💬 Previously spent ~7 years at **Hi Platform**, helping build and scale a SaaS chat product
+- 🛠️ Core stack: **React**, **TypeScript**, modern front-end architecture
+- 🌍 Based in Portugal, working across European and Brazilian markets
+- 🚀 Building **HistoryMatch** — a side project generating personalized, data-driven football match posters
+- 👁️ Building **Vigil** — a desktop app for AI-assisted code review, combining static analysis with LLM review passes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### What I work with
+
+`React` `TypeScript` `Next.js` `Electron` `JavaScript (ES6+)` `HTML5` `CSS3` `REST APIs` `Git`
+
+#### What I focus on
+
+- Scalable front-end architecture for production SaaS and fintech products
+- Clean, maintainable, type-safe codebases
+- Performance and UX in data-heavy interfaces
+- Translating design and product requirements into reliable, well-structured code
