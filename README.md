@@ -7,7 +7,7 @@ Senior Front-End Engineer with 12+ years of experience building scalable web pro
 - 🛠️ Core stack: **React**, **TypeScript**, modern front-end architecture
 - 🌍 Based in Portugal, working across European and Brazilian markets
 - 🚀 Building **[HistoryMatch](https://historymatch.art)** — a side project generating personalized, data-driven football match posters
-- 👁️ Building **[Vigil](https://github.com/xWul/vigil)** — a desktop app for AI-assisted code review, combining static analysis with LLM review passes
+- 👁️ Building **[Vigil](https://vigil-website-chi.vercel.app/)** — a desktop app for AI-assisted code review, combining static analysis with LLM review passes
 
 ---
 
