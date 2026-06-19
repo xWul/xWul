@@ -2,7 +2,7 @@
 
 Senior Front-End Engineer with 12+ years of experience building scalable web products, currently focused on digital investment and savings platforms for one of the largest banks in Portugal.
 
-- 🏦 Currently @ **ITSector**, building front-end systems for fintech / banking products
+- 🏦 Currently @ **Millennium BCP**, building front-end systems for fintech / banking products
 - 💬 Previously spent ~7 years at **Hi Platform**, helping build and scale a SaaS chat product
 - 🛠️ Core stack: **React**, **TypeScript**, modern front-end architecture
 - 🌍 Based in Portugal, working across European and Brazilian markets
